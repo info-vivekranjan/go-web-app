@@ -59,6 +59,7 @@ The following resources are defined:
 ## 🌐 Ingress Controller
 
 * Installed **NGINX Ingress Controller**
+* https://kubernetes.github.io/ingress-nginx/    
 * Handles:
 
   * HTTP routing
