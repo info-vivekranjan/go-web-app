@@ -7,6 +7,8 @@ on:
       - "go-web-app-helm/**"
       - "k8s/**"
       - "README.md"
+      - "argocd_deployment/**"
+      - "Readme-local.md"
 
 jobs:
   build-and-test:
